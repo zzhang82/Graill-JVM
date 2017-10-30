@@ -43,11 +43,31 @@ println weekdays.to  //FRI
 
 def numbers = 0..9
 for (num in numbers){
-    println num
+    if(isEven(num)) {
+        println num
+    }
 }
-def isEven(def num){
-    return num%2 == 0
+def isEven(num){
+    num%2 == 0
 }
+
+////////////////////////////////////////////////
+def myClosure = {
+    println "Hello"
+    println new Date()
+}
+for (i in 1..3) {               // or (1..3).each ({ i->
+    myClosure()                 //lambda
+    println "In a closure : $it"
+    sleep(1000)
+}
+////////////////////////////////////////////////
+
+
+
+
+
+
 
 
 
