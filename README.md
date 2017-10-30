@@ -1,5 +1,5 @@
-## Graill-JVM
-# Self -- Study
+# Graill-JVM
+## Self -- Study
 
 
 ![alt text](https://pbs.twimg.com/profile_images/378800000784852682/6d180ca6647e7f690c2615a86e7c2843_400x400.png)
@@ -11,4 +11,7 @@ Config: IntelliJ, SDKs
 
 Useful Link: https://app.pluralsight.com/library/courses/groovy-fundamentals/table-of-contents
 
-Testing for Stage 1
+
+Task Name  | Task Status 
+------------- | -------------
+1.0 Setup  | :white_check_mark: 
