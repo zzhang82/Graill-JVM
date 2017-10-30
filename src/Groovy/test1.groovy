@@ -62,6 +62,14 @@ for (i in 1..3) {               // or (1..3).each ({ i->
     sleep(1000)
 }
 ////////////////////////////////////////////////
+(1..10).findAll({return it%2 ==0}).each({
+    println "In a closure : $it"
+})
+
+//def can use for dynamic types, they use different class on run time
+def one = 1
+one = "one"
+//dynamic
 
 
 
