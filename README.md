@@ -12,6 +12,7 @@ Config: IntelliJ, SDKs
 Useful Link: https://app.pluralsight.com/library/courses/groovy-fundamentals/table-of-contents
 
 Onjects
+-------------
 ~ Work with XML files
 ~ Consume JSON data from a Rest service
 ~ Store data in a relational database
