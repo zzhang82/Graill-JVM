@@ -2,7 +2,7 @@
 # Self -- Study
 
 
-![alt text](https://en.wikipedia.org/wiki/Groovy_(programming_language)#/media/File:Groovy-logo.svg)
+![alt text](https://pbs.twimg.com/profile_images/378800000784852682/6d180ca6647e7f690c2615a86e7c2843_400x400.png)
 
 
 #365-|
