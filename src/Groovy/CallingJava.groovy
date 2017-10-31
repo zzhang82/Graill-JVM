@@ -27,3 +27,4 @@ gpx.rte.rtept.each {      //each with it like the for with this.
     def format = DateTimeFormat.forPattern('MM/dd/yyyy - hh:mm aa')
     println printableTime.toString(format)
 }
+
